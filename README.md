@@ -1,1 +1,1 @@
-Flipping to data-theme=dark now
+recently: lint HTML, minify CSS, update README
