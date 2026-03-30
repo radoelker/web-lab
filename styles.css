@@ -3,6 +3,14 @@ body {
 	    margin: 0;
 	      padding: 2rem;
 	        background: #f6f8fa;
+		/*
+		 * Source - https://stackoverflow.com/a/76961890
+		 * Posted by mplungjan
+		 * Retrieved 2026-03-30, License - CC BY-SA 4.0
+		 * */
+
+	.light { background-color: white;}
+	.dark { background-color: black;}
 	}
 h1 {
 	  color: red;
