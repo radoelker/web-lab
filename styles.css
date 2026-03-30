@@ -2,7 +2,9 @@ body {
 	  font-family: system-ui, sans-serif;
 	    margin: 0;
 	      padding: 2rem;
-	        background: #f6f8fa;
+	        background: #ffffff;
+	}
+	 
 		/*
 		 * Source - https://stackoverflow.com/a/76961890
 		 * Posted by mplungjan
